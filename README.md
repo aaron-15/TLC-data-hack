@@ -1,4 +1,4 @@
-## The TLC data challenge in the Kaggle competition asks to create a predictive model to analyze trip duration. I believe that this dataset can be leveraged to create value in methods much different than a predictive model. In the notebooks I have performed spatial and temporal clustering to understand the behavioral patterns of users which can be leveraged by different types of industries.
+## The TLC data challenge in the Kaggle competition asks to create a predictive model to analyze trip duration. I have used this dataset  to create value in methods different than a predictive model. In the notebooks I have performed spatial and temporal clustering to understand the behavioral patterns of users which can be leveraged by different types of industries.
 
 
 ### Notebook - 'Exploratory Analysis of Variables'
