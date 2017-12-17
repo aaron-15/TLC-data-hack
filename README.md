@@ -16,3 +16,5 @@ The taxi pickups, dropoffs, trip durations values within a census tract are rela
 Literature review of the taxi-dataset analysis shows that taxi data has been used in prediction of unment demand. (NYU-CUSP Capstone) https://medium.com/@NYCTLC/students-use-tlc-data-to-study-unmet-taxi-demand-and-find-ideal-spots-for-taxi-relief-stands-644e40ebe11a
 
 The taxi dataset is used to predict the taxi trip duration from the taxi data. The notebook shows an implementation of a predictive model.
+
+Credits: Vishwajeet Shelar for this contribution towards this analysis
